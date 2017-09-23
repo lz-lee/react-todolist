@@ -1,0 +1,14 @@
+.item-wrapper{
+  display: flex;
+  /* justify-content: space-around; */
+  width: 100%;
+  padding: 10px 30px;
+  box-sizing: border-box;
+}
+.item-inner{
+  flex:1;
+  display: flex;
+}
+.check-todo{
+  margin-right: 10px;
+}
